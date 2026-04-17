@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 /* RESET */
 * {
   margin: 0;
@@ -16,24 +20,39 @@ body {
 /* HEADER */
 header {
   background: #020617;
-  padding: 20px;
+  padding: 15px 20px;
+  position: sticky;
+  top: 0;
 }
 
-nav {
+.navbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 
-nav ul {
-  display: flex;
-  gap: 20px;
-  list-style: none;
+/* LOGO */
+.logo {
+  font-size: 20px;
+  font-weight: bold;
 }
 
-nav a {
-  color: #ffffff;
+/* MENU */
+.menu {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+}
+
+.menu a {
   text-decoration: none;
+  color: #ffffff;
+  transition: 0.3s;
+}
+
+/* HOVER (efeito profissional) */
+.menu a:hover {
+  color: #38bdf8;
 }
 
 /* HERO */
@@ -137,4 +156,13 @@ h1, h2, h3 {
 p {
   max-width: 600px;
   margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+
+  .menu {
+    flex-direction: column;
+    align-items: center;
+  }
+
 }
