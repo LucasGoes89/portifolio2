@@ -19,40 +19,10 @@ Criar um site profissional simples, responsivo e bem estruturado, funcionando co
 - Seção de contato
 - Layout responsivo (mobile, tablet e desktop)
 
-## 💻 Projetos apresentados
-
-- 📖 Busca de Versículos  
-- 🧓 Sistema de Monitoramento de Idosos  
-- 🏢 Sistema de Controle Patrimonial  
-
-## 🌐 Acesse o projeto online
-
-👉 https://portfolio2-blush-eight.vercel.app
-
-## 📫 Contato
-
-- Email: lukas_goes@hotmail.com  
-- LinkedIn: https://br.linkedin.com/in/lucas-de-goes-v-júnior-135822248
-- GitHub: https://github.com/LucasGoes89  
-
 ## 📈 Status do projeto
 
 ✔ Concluído (versão inicial)  
 🔄 Em constante evolução
-
----
-
-## 🧠 Aprendizados
-
-Durante o desenvolvimento deste projeto, pratiquei:
-
-- Estruturação com HTML semântico  
-- Estilização com CSS  
-- Responsividade  
-- Versionamento com Git e GitHub  
-- Deploy com Vercel  
-
----
 
 ## 👨‍💻 Autor
 
